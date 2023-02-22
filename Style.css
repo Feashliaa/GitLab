@@ -1,0 +1,14 @@
+body {
+  background-color: lightblue;
+}
+
+h1 {
+  color: red;
+  text-align: center;
+}
+
+blockquote {
+  font-family: verdana;
+  font-size: 20px;
+  color: red;
+}
